@@ -1,11 +1,58 @@
-<h1 style="background-color:yellow; color:red"> Hello, i Am vasudev i inviting you   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> hello komal how are you try this</h2>
-<h1> this is for sample to githook file</h1>
-<h1>all is set</h1>
-<h2 style="color:green">i am vasudev shown to this mr komal<h2>
-<img src="https://bicktok.s3.us-east-2.amazonaws.com/Screenshot+2023-12-16+213436.png" alt="this is for practice" style="length:1200px; width:900px"></img>
-<h3>image2<h3>
-<img src="https://spy123.s3.ap-south-1.amazonaws.com/IMG_20211022_120843_658.jpg" alt="this is for practice" style="length:1100px; width:800px"></img>
-<h3>image3<h3>
-<h4> good morning</h4>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KOMAL Construction Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .header {
+            background-color: #ff9800;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .services {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+            width: 250px;
+        }
+        .footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">Welcome to Our Construction Services</div>
+    <div class="container">
+        <h2>Our Services</h2>
+        <div class="services">
+            <div class="card">Building Construction</div>
+            <div class="card">Road Construction</div>
+            <div class="card">House Renovation</div>
+        </div>
+    </div>
+    <div class="footer">&copy; 2023 KOMAL Construction Services. All rights reserved.</div>
+</body>
+</html>
